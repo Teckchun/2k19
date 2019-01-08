@@ -1,8 +1,7 @@
 ---
-title: "Hello there"
+title: "Your blog post title"
 date: 2019-01-08
 ---
-
 author: Teckchun Aing
 email: teckchunaing@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
